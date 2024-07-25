@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I am major in Electrical and Electronics Engineering at Yasar University and am a minor in ICT for the Internet and Multimedia at the University of Padova. I am currently try to improve myself in AI and telecommunication fields. I am mostly working on practical projects and I am looking to apply my skills and abilities to a challenging, growth-oriented position with a leading company.
+I am major in Electrical and Electronics Engineering at Yasar University and am a minor in ICT for the Internet and Multimedia at the University of Padova. I am a junior artificial intelligence engineer, specializing in software development, computer vision, and natural language processing. Proficient in deploying advanced algorithms for artificial intelligence applications.
 
-- 🌱 I’m currently learning programming languages like C++, Python, and Go.
-- 🔭 I’m currently focusing on Telecommunication and AI.
+- 🌱 I mostly use programming languages like C++, Python, and Matlab.
+- 🔭 I’m currently focusing on computer vision, natural language processing, and generative AI.
+- 📫 How to reach me: sevil.yukselcan@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuucas)](https://github.com/anuraghazra/github-readme-stats)
 
